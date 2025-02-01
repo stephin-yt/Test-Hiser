@@ -1,0 +1,73 @@
+{
+  "name": "JulieMwol",
+  "version": "7.3.6",
+  "description": "Julie Mwol is the Modified Version of WhatsAsena, Made By @farhan-dqz with Baileys.",
+  "main": "./Julie-Mwol/bot.js",
+  "scripts": {
+    "start": "supervisor -s bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/farhan-dqz/Julie-Mwol.git"
+  },
+  "keywords": [
+    "whatsapp",
+    "bot",
+    "ai",
+    "asena",
+    "WhatsAsena"
+  ],
+  "author": "farhan-dqz",
+  "developer": "@TOXIC-DEVIL / @farhan-dqz",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/farhan-dqz/Julie-Mwol/issues"
+  },
+  "homepage": "https://github.com/farhan-dqz/Julie-Mwol#readme",
+  "dependencies": {
+    "@lh2020/speedtest-net": "^latest",
+    "textmaker-thiccy": "^latest",
+    "browser-id3-writer": "^latest",
+    "playstore-scraper": "^latest",
+    "axios": "^latest",
+    "googlethis": "^latest",
+    "audiobuffer-to-wav": "^latest",
+    "chalk": "^latest",
+    "coffeehouse": "^latest",
+    "cwebp": "^latest",
+    "search-engine-client": "^latest",
+    "deepai": "^latest",
+    "cwebp-bin": "^latest",
+    "tinyurl": "^latest",
+    "dotenv": "^latest",
+    "tiktok-scraper": "^latest",
+    "request": "^latest",
+    "exchange-rates-api": "^latest",
+    "fluent-ffmpeg": "^latest",
+    "form-data": "^latest",
+    "g-i-s": "^latest",
+    "google-translate-tts": "^latest",
+    "got": "^latest",
+    "heroku-client": "^latest",
+    "jimp": "^latest",
+    "js-ffmpeg": "^latest",
+    "jsdom": "^latest",
+    "langs": "^latest",
+    "languagedetect": "^latest",
+    "meme-maker": "^latest",
+    "mongodb": "^latest",
+    "node-fetch": "^latest",
+    "node-tesseract-ocr": "^latest",
+    "pg": "^latest",
+    "sequelize": "^latest",
+    "simple-git": "^latest",
+    "sozlukjs": "^latest",
+    "spotify-web-api-node": "^latest",
+    "sqlite3": "^latest",
+    "solenolyrics": "^latest",
+    "translatte": "^latest",
+    "wikijs": "^latest",
+    "yt-search": "^latest",
+    "ytdl-core": "^latest"
+  }
+}
